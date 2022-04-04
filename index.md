@@ -5,7 +5,7 @@
 [インポート](インポート/index.md)  
 
 [数値](数値/index.md)  
-[テキスト](テキスト/index.md)  
+[文字列](文字列/index.md)  
 [日時](日時/index.md)  
 
 [演算子](演算子/index.md)  
