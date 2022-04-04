@@ -1,1 +1,1 @@
-[GUI](gui.md)  
+[GUI](gui/index.md)  
